@@ -42,7 +42,7 @@ pip install requests
 ## 📥 Kurulum
 
 ```bash
-git clone https://github.com/<kullanici-adiniz>/ZERGUZ-CTI.git
+git clone https://github.com/Malikejder/ZERGUZ-CTI.git
 cd ZERGUZ-CTI
 pip install -r requirements.txt   # veya: pip install requests
 python3 Zerguz-CTI.py
